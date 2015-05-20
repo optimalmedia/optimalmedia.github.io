@@ -959,6 +959,7 @@ ul.rss li::before {
   padding-bottom: 30px;
   color: #bdc3c7;
   background-color: #00132f;
+  z-index: 100;
 }
 #footer a {
   color: #bdc3c7;
